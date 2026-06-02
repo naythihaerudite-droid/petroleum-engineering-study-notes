@@ -32,7 +32,11 @@ This project is useful for:
 
 ## Why this repo exists
 
-Many engineering students need quick revision material that is less intimidating than full academic textbooks. This repository tries to bridge that gap by offering short notes, practical definitions, and simple study support.
+I hold a Bachelor of Petroleum Engineering from Thanlyin Technological University (TTU), Myanmar, and I also have a teaching background. That combination shaped the purpose of this repository.
+
+Many students need technical material explained more clearly before they can benefit from dense textbooks or advanced lectures. This project was created to make petroleum engineering topics feel more approachable through short notes, simpler wording, and practical review support. It also includes some English–Burmese study support because bilingual learners often benefit from clearer bridges into technical vocabulary.
+
+The long-term goal is to build an open educational resource that helps beginners study with more confidence.
 
 ## Planned additions
 
