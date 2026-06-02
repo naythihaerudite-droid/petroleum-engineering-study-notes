@@ -23,6 +23,7 @@ This project is useful for:
 - [Reservoir Drive Mechanisms](notes/06-reservoir-drive-mechanisms.md)
 - [Casing and Cementing Basics](notes/07-casing-and-cementing-basics.md)
 - [Drilling Mud Basics](notes/08-drilling-mud-basics.md)
+- [Artificial Lift Overview](notes/09-artificial-lift-overview.md)
 
 ### Support material
 - [Petroleum Engineering Glossary](notes/glossary.md)
